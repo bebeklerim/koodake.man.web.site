@@ -4,7 +4,6 @@
  *
  * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
  */
-
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -39,9 +38,9 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Built with
+          © {new Date().getFullYear()} &middot; 
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://koooodakeman.ir/">کودک من</a>
         </footer>
       </div>
     </>
