@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Koodake.Man.Web.Site",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Website of koodake man podcast",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Farid Bekran <faridbekran15@gmail.com>",
   "dependencies": {
     "gatsby": "^5.12.1",
     "gatsby-omni-font-loader": "^2.0.2",
@@ -34,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/bebeklerim/koodake.man.web.site"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/bebeklerim/koodake.man.web.site/issues"
   }
 }

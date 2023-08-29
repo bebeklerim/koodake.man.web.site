@@ -8,28 +8,42 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "فصل دوم - قصه موش و شتر",
+    url: "https://castbox.fm/episode/قصه-موش-و-شتر-id4638131-id622135014?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%82%D8%B5%D9%87%20%D9%85%D9%88%D8%B4%20%D9%88%20%D8%B4%D8%AA%D8%B1-CastBox_FM",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      `در این قسمت قصه موش و شتر رو براتون بازخوانی کردیم.
+سعی کردیم فضای اپیزودهای این فصل ملایم باشن تا فرزندان دلبندمون در زمان استراحتشون هم همراهمون باشن. 
+تمامی داستان های این فصل برای کودکان 5 تا 7 سال مناسب هستند. 
+منبع مکتوب این قسمت کتاب 10 قصه از مثنوی مولوی از انتشارات قدیانی - کتابهای بنفشه هست.
+`,
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: "فصل دوم - قصه ماهی دیل",
+    url: "https://castbox.fm/episode/قصه-ماهی-دیل-id4638131-id587729859?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%82%D8%B5%D9%87%20%D9%85%D8%A7%D9%87%DB%8C%20%D8%AF%DB%8C%D9%84-CastBox_FM",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      `در این قسمت قصه ماهی دیل رو براتون بازخوانی کردیم.در این فصل داستان هایی از ایران و جهان برای کوچولوهای عزیز آماده کردیم. 
+      امیدواریم بشنون و بپسندن. 
+      `,
   },
   {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
+    text: "فصل اول - شعر نهنگ و دریا (گروه سنی 2 تا 6 سال)",
+    url: "https://castbox.fm/episode/اپیزود-2%3A-شعر-نهنگ-و-دریا-(گروه-سنی-2-تا-6-سال)-id4638131-id439273654?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%A7%D9%BE%DB%8C%D8%B2%D9%88%D8%AF%202%3A%20%D8%B4%D8%B9%D8%B1%20%D9%86%D9%87%D9%86%DA%AF%20%D9%88%20%D8%AF%D8%B1%DB%8C%D8%A7%20(%DA%AF%D8%B1%D9%88%D9%87%20%D8%B3%D9%86%DB%8C%202%20%D8%AA%D8%A7%206%20%D8%B3%D8%A7%D9%84)-CastBox_FM",
     description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
+      `تو این قسمت شعر نهنگ و دریا رو براتون آماده کردیم.
+
+      این قسمت مناسب کوچولوهای نازنین 2 تا 6 ساله‌ست.
+      
+      امیدواریم که دوست داشته باشید.
+      `,
   },
   {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
+    text: "فصل اول - شعر آفتاب مهتاب (گروه سنی 2 تا 6 سال)",
+    url: "https://castbox.fm/episode/اپیزود-3%3A-شعر-آفتاب-مهتاب-(گروه-سنی-2-تا-6-سال)-id4638131-id439889798?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%A7%D9%BE%DB%8C%D8%B2%D9%88%D8%AF%203%3A%20%D8%B4%D8%B9%D8%B1%20%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%20%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20(%DA%AF%D8%B1%D9%88%D9%87%20%D8%B3%D9%86%DB%8C%202%20%D8%AA%D8%A7%206%20%D8%B3%D8%A7%D9%84)-CastBox_FM",
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      `تو این قسمت شعر آفتاب مهتاب رو براتون آماده کردیم.
+
+      این قسمت مناسب کوچولوهای نازنین 2 تا 6 ساله‌ست.
+      `,
   },
 ]
 
@@ -44,7 +58,7 @@ const moreLinks = [
   },
   {
     text: "اسپاتیفای",
-    url: "https://gatsbyjs.com/starters/",
+    url: "https://open.spotify.com/show/04ZDNZSX5I18H5yjJFMYGm?si=95325f4aaa9f45e8",
   },
   {
     text: "کست باکس",
@@ -56,7 +70,7 @@ const moreLinks = [
   },
   {
     text: "تلگرام",
-    url: "https://tehranpodcast.ir/bebegim/",
+    url: "https://t.me/koooodake_man",
   }
 ]
 
